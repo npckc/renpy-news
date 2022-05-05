@@ -1,6 +1,6 @@
 {
-    "version": 2,
+    "version": 3,
     "image": "https://raw.githubusercontent.com/npckc/renpy-news/main/img/banner_2.png",
     "link": "https://store.steampowered.com/app/1914740/A_HERO_AND_A_GARDEN/",
-    "text": "Wishlist A HERO AND A GARDEN, coming soon to {a=https://store.steampowered.com/app/1914740/A_HERO_AND_A_GARDEN/}STEAM{/a}!"
+    "text": "{a=https://store.steampowered.com/app/1914740/A_HERO_AND_A_GARDEN/}A HERO AND A GARDEN out now!{/a}"
 }
