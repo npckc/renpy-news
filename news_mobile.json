@@ -1,6 +1,6 @@
 {
-    "version": 3,
-    "image": "https://raw.githubusercontent.com/npckc/renpy-news/main/img/banner_3.png",
-    "link": "https://apetshopafterdark.crd.co",
-    "text": "{a=https://apetshopafterdark.crd.co}a pet shop after dark out now!{/a}!"
+    "version": 4,
+    "image": "https://raw.githubusercontent.com/npckc/renpy-news/main/img/banner_4.png",
+    "link": "https://play.google.com/store/apps/details?id=com.npckc.tavern",
+    "text": "{a=https://play.google.com/store/apps/details?id=com.npckc.tavern}A TAVERN FOR TEA on 3/24!{/a}!"
 }
