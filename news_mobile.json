@@ -1,6 +1,6 @@
 {
-    "version": 5,
-    "image": "https://raw.githubusercontent.com/npckc/renpy-news/main/img/banner_5.png",
-    "link": "https://play.google.com/store/apps/details?id=com.npckc.tongjyun",
-    "text": "{a=https://play.google.com/store/apps/details?id=com.npckc.tongjyun}tong jyun now on google play!{/a}!"
+    "version": 6,
+    "image": "https://raw.githubusercontent.com/npckc/renpy-news/main/img/banner_6.png",
+    "link": "https://marronsday.npckc.net/",
+    "text": "{a=https://marronsday.npckc.net/}Marron's Day out on Steam, Nintendo Switch, and Game Boy!{/a}"
 }
