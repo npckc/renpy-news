@@ -1,6 +1,6 @@
 {
-    "version": 6,
-    "image": "https://raw.githubusercontent.com/npckc/renpy-news/main/img/banner_6.png",
-    "link": "https://marronsday.npckc.net/",
-    "text": "{a=https://marronsday.npckc.net/}Marron's Day out on Steam, Nintendo Switch, and Game Boy!{/a}"
+    "version": 7,
+    "image": "https://raw.githubusercontent.com/npckc/renpy-news/main/img/banner_7.png",
+    "link": "https://plushwonderland.com/collections/a-year-of-springs",
+    "text": "{a=https://plushwonderland.com/collections/a-year-of-springs}A YEAR OF SPRINGS plush preorders now open!{/a}"
 }
